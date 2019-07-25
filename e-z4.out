@@ -1,0 +1,2 @@
+module: unloading 'cuda/7.5.18'
+module: loading 'cuda/7.5.18'
